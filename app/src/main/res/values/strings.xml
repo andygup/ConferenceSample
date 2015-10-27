@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConferenceSample</string>
+    <string name="room_name">SHORTNAME</string>
+    <string name="room_name_feature_table_name">Interior Spaces Type</string>
+</resources>
